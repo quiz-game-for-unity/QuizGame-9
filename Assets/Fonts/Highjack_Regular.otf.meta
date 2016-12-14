@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 822ceaffcf5b6b54390490cf09fb9324
+timeCreated: 1481250623
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Highjack
+  fontNames:
+  - Highjack
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4676be6197a030248917a3b47a568959, type: 3}
+  - {fileID: 12800000, guid: 669f19ef56341d143853f4f99e35687c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
